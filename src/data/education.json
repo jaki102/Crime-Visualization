@@ -1,0 +1,1940 @@
+[
+  {
+    "Region": "Polska",
+    "Lata": 1999,
+    "Liczba_absolwentow": "212924",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2000,
+    "Liczba_absolwentow": "258518",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2001,
+    "Liczba_absolwentow": "301215",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2002,
+    "Liczba_absolwentow": "340243",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2003,
+    "Liczba_absolwentow": "363880",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2004,
+    "Liczba_absolwentow": "381532",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2005,
+    "Liczba_absolwentow": "388542",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2006,
+    "Liczba_absolwentow": "391696",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2007,
+    "Liczba_absolwentow": "408066",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2008,
+    "Liczba_absolwentow": "418507",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2009,
+    "Liczba_absolwentow": "436549",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2010,
+    "Liczba_absolwentow": "474552",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2011,
+    "Liczba_absolwentow": "492646",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2012,
+    "Liczba_absolwentow": "484999",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2013,
+    "Liczba_absolwentow": "454986",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2014,
+    "Liczba_absolwentow": "424317",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2015,
+    "Liczba_absolwentow": "394987",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2016,
+    "Liczba_absolwentow": "364399",
+    "": ""
+  },
+  {
+    "Region": "POLSKA",
+    "Lata": 2017,
+    "Liczba_absolwentow": "387332",
+    "": ""
+  },
+  {
+    "Region": "Dolnośląskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "15491",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "18490",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "22414",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "26337",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "28626",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "32802",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "32706",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "33060",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "32556",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "35422",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "37156",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "40562",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "42767",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "41350",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "39855",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "36607",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "34717",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "33458",
+    "": ""
+  },
+  {
+    "Region": "DOLNO?L?SKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "34796",
+    "": ""
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "12169",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "14146",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "14672",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "16593",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "17787",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "18226",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "19073",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "19491",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "19720",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "19934",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "21197",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "21860",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "23147",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "23348",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "21561",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "19915",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "17590",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "16211",
+    "": ""
+  },
+  {
+    "Region": "KUJAWSKO-POMORSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "17085",
+    "": ""
+  },
+  {
+    "Region": "Lubelskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "10802",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "13658",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "16566",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "18971",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "19790",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "21476",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "22712",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "23150",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "23225",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "23256",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "26031",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "29584",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "30087",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "28455",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "27326",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "24446",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "22700",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "20657",
+    "": ""
+  },
+  {
+    "Region": "LUBELSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "21205",
+    "": ""
+  },
+  {
+    "Region": "Lubuskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "5596",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "5508",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "7009",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "7851",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "8008",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "8781",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "8677",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "9029",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "9292",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "7599",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "7656",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "7520",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "6896",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "6691",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "5996",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "5198",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "4821",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "4252",
+    "": ""
+  },
+  {
+    "Region": "LUBUSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "3944",
+    "": ""
+  },
+  {
+    "Region": "Łódzkie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "13036",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "15383",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "17884",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "21756",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "22557",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "25520",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "23965",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "26385",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "28706",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "29168",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "31493",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "33425",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "30456",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "28999",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "25846",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "24003",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "21905",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "19215",
+    "": ""
+  },
+  {
+    "Region": "?�DZKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "20929",
+    "": ""
+  },
+  {
+    "Region": "Małopolskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "20034",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "22381",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "24738",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "25015",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "27614",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "29483",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "32862",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "34302",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "37484",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "38593",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "41683",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "48440",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "54978",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "55972",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "53988",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "52477",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "50358",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "48592",
+    "": ""
+  },
+  {
+    "Region": "MA?OPOLSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "53681",
+    "": ""
+  },
+  {
+    "Region": "Mazowieckie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "37520",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "50446",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "62337",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "67529",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "71098",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "70330",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "68810",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "67421",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "71136",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "72032",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "74876",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "80357",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "83178",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "85053",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "79159",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "77090",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "70323",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "66625",
+    "": ""
+  },
+  {
+    "Region": "MAZOWIECKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "70333",
+    "": ""
+  },
+  {
+    "Region": "Opolskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "4451",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "5852",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "6642",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "7914",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "7804",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "7662",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "8530",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "8248",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "7472",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "7455",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "9900",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "10978",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "11492",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "11792",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "10850",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "9697",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "8424",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "7389",
+    "": ""
+  },
+  {
+    "Region": "OPOLSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "7715",
+    "": ""
+  },
+  {
+    "Region": "Podkarpackie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "9779",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "11080",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "11340",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "14476",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "15393",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "17886",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "18190",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "18946",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "19234",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "19210",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "19590",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "20791",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "21790",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "20174",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "20524",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "19300",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "18970",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "18018",
+    "": ""
+  },
+  {
+    "Region": "PODKARPACKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "16680",
+    "": ""
+  },
+  {
+    "Region": "Podlaskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "6035",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "7054",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "8272",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "10549",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "11080",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "10787",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "10366",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "10743",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "11599",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "13580",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "11862",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "14883",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "15261",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "14662",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "13971",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "12043",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "10855",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "9426",
+    "": ""
+  },
+  {
+    "Region": "PODLASKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "9991",
+    "": ""
+  },
+  {
+    "Region": "Pomorskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "10763",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "12588",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "13873",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "16226",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "18251",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "18439",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "19324",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "20081",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "20773",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "23055",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "23341",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "23983",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "27434",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "29280",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "28064",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "26129",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "24427",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "23358",
+    "": ""
+  },
+  {
+    "Region": "POMORSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "26194",
+    "": ""
+  },
+  {
+    "Region": "Śląskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "22675",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "29429",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "33208",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "37902",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "41622",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "43387",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "44903",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "43127",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "44816",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "44684",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "43637",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "48783",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "51479",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "48657",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "44687",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "41683",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "38683",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "33940",
+    "": ""
+  },
+  {
+    "Region": "?L?SKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "38105",
+    "": ""
+  },
+  {
+    "Region": "Świętokrzyskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "7436",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "8359",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "10717",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "12832",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "15018",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "14811",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "15967",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "14041",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "14227",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "12628",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "12394",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "12866",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "14144",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "13991",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "13023",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "10273",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "9779",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "8007",
+    "": ""
+  },
+  {
+    "Region": "?WI?TOKRZYSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "8642",
+    "": ""
+  },
+  {
+    "Region": "Warmińsko-Mazurskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "5346",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "6778",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "8395",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "10357",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "10883",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "11836",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "12244",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "12473",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "13746",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "15676",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "15456",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "14397",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "14551",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "15036",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "12480",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "11465",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "10214",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "9185",
+    "": ""
+  },
+  {
+    "Region": "WARMI?SKO-MAZURSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "9575",
+    "": ""
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "17270",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "19141",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "23344",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "26521",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "29625",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "32715",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "32607",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "34393",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "37217",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "39342",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "43048",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "46385",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "46232",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "44203",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "42062",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "39477",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "38062",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "34174",
+    "": ""
+  },
+  {
+    "Region": "WIELKOPOLSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "36600",
+    "": ""
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Lata": 1999,
+    "Liczba_absolwentow": "14521",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2000,
+    "Liczba_absolwentow": "18225",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2001,
+    "Liczba_absolwentow": "19804",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2002,
+    "Liczba_absolwentow": "19414",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2003,
+    "Liczba_absolwentow": "18724",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2004,
+    "Liczba_absolwentow": "17391",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2005,
+    "Liczba_absolwentow": "17606",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2006,
+    "Liczba_absolwentow": "16806",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2007,
+    "Liczba_absolwentow": "16863",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2008,
+    "Liczba_absolwentow": "16873",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2009,
+    "Liczba_absolwentow": "17229",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2010,
+    "Liczba_absolwentow": "19738",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2011,
+    "Liczba_absolwentow": "18754",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2012,
+    "Liczba_absolwentow": "17336",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2013,
+    "Liczba_absolwentow": "15594",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2014,
+    "Liczba_absolwentow": "14514",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2015,
+    "Liczba_absolwentow": "13159",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2016,
+    "Liczba_absolwentow": "11892",
+    "": ""
+  },
+  {
+    "Region": "ZACHODNIOPOMORSKIE",
+    "Lata": 2017,
+    "Liczba_absolwentow": "11857",
+    "": ""
+  }
+]

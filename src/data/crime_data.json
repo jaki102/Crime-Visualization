@@ -1,0 +1,2263 @@
+[
+  {
+    "Region": "Polska",
+    "Rok": 2017,
+    "Stwierdzone": 753963,
+    "Wykryte": 545008,
+    "Wykrycia": 71.7
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2016,
+    "Stwierdzone": 748459,
+    "Wykryte": 501877,
+    "Wykrycia": 66.5
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2015,
+    "Stwierdzone": 799779,
+    "Wykryte": 524380,
+    "Wykrycia": 64.7
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2014,
+    "Stwierdzone": 867855,
+    "Wykryte":  573824,
+    "Wykrycia": 65.2    
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2013,
+    "Stwierdzone": 1061239,
+    "Wykryte":  720510,
+    "Wykrycia": 67   
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2012,
+    "Stwierdzone": 1119803,
+    "Wykryte":  769604,
+    "Wykrycia": 67.8   
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2011,
+    "Stwierdzone": 1159554,
+    "Wykryte":  807064,
+    "Wykrycia": 68.7   
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2010,
+    "Stwierdzone": 1138523,
+    "Wykryte":  783428,
+    "Wykrycia": 67.9   
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2009,
+    "Stwierdzone": 1129577,
+    "Wykryte":  766075,
+    "Wykrycia": 67.1 
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2008,
+    "Stwierdzone": 1082057,
+    "Wykryte":  721925,
+    "Wykrycia": 65.9
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2007,
+    "Stwierdzone": 1152993,
+    "Wykryte":  752698,
+    "Wykrycia": 64.6 
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2006,
+    "Stwierdzone": 1287918,
+    "Wykryte":  812347,
+    "Wykrycia": 62.4 
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2005,
+    "Stwierdzone": 1379962,
+    "Wykryte":  816861,
+    "Wykrycia": 58.6
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2004,
+    "Stwierdzone": 1461217,
+    "Wykryte":  829079,
+    "Wykrycia": 56.2
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2003,
+    "Stwierdzone": 1466643,
+    "Wykryte":  815824,
+    "Wykrycia": 55.2
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2002,
+    "Stwierdzone": 1404229,
+    "Wykryte":  777326,
+    "Wykrycia": 54.9
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2001,
+    "Stwierdzone": 1390089,
+    "Wykryte":  753940,
+    "Wykrycia": 53.8
+  },
+  {
+    "Region": "Polska",
+    "Rok": 2000,
+    "Stwierdzone": 1266910,
+    "Wykryte":  609884,
+    "Wykrycia": 47.8
+  },
+  {
+    "Region": "Polska",
+    "Rok": 1999,
+    "Stwierdzone": 1121545,
+    "Wykryte":  507987,
+    "Wykrycia": 45
+  },
+  {
+    "Region": "Dolnośląskie",
+    "Rok": 2017,
+    "Stwierdzone": 72858,
+    "Wykryte":  47151,
+    "Wykrycia": 64.1 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2016,
+    "Stwierdzone": 74705,
+    "Wykryte":  45853,
+    "Wykrycia": 60.7 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2015,
+    "Stwierdzone": 79395,
+    "Wykryte":  48634,
+    "Wykrycia": 60.3 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2014,
+    "Stwierdzone": 83566,
+    "Wykryte":  52246,
+    "Wykrycia": 61.6 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2013,
+    "Stwierdzone": 111047,
+    "Wykryte": 75700,
+    "Wykrycia": 67 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2012,
+    "Stwierdzone": 115116,
+    "Wykryte": 78471,
+    "Wykrycia": 67.2 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2011,
+    "Stwierdzone": 113332,
+    "Wykryte":  78249,
+    "Wykrycia": 68.1  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2010,
+    "Stwierdzone": 114342,
+    "Wykryte":  78559,
+    "Wykrycia": 67.8  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2009,
+    "Stwierdzone": 109336,
+    "Wykryte":  75001,
+    "Wykrycia": 67.7  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2008,
+    "Stwierdzone": 105351,
+    "Wykryte":  72300,
+    "Wykrycia": 67.6  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2007,
+    "Stwierdzone": 112777,
+    "Wykryte":  76288,
+    "Wykrycia": 66.7 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2006,
+    "Stwierdzone": 119466,
+    "Wykryte":  80532,
+    "Wykrycia": 66.6 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2005,
+    "Stwierdzone": 123501,
+    "Wykryte":  80439,
+    "Wykrycia": 64.3 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2004,
+    "Stwierdzone": 129965,
+    "Wykryte":  82602,
+    "Wykrycia": 62.7  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2003,
+    "Stwierdzone": 127893,
+    "Wykryte":  79255,
+    "Wykrycia": 61.3  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2002,
+    "Stwierdzone": 120165,
+    "Wykryte":  72861,
+    "Wykrycia": 60 
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2001,
+    "Stwierdzone": 117002,
+    "Wykryte":  67484,
+    "Wykrycia": 57.1  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 2000,
+    "Stwierdzone": 119714,
+    "Wykryte":  65449,
+    "Wykrycia": 54.2  
+  },
+  {
+    "Region": "dolnoslaskie",
+    "Rok": 1999,
+    "Stwierdzone": 103447,
+    "Wykryte":  53368,
+    "Wykrycia": 51.2 
+  },
+  {
+    "Region": "Kujawsko-Pomorskie",
+    "Rok": 2017,
+    "Stwierdzone": 37478,
+    "Wykryte":  27949,
+    "Wykrycia": 74.1
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2016,
+    "Stwierdzone": 37143,
+    "Wykryte":  25697,
+    "Wykrycia": 68.6
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2015,
+    "Stwierdzone": 38832,
+    "Wykryte":  25990,
+    "Wykrycia": 66.2
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2014,
+    "Stwierdzone": 42060,
+    "Wykryte":  29069,
+    "Wykrycia": 67.8
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2013,
+    "Stwierdzone": 53457,
+    "Wykryte":  37057,
+    "Wykrycia": 68.2
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2012,
+    "Stwierdzone": 60745,
+    "Wykryte":  42570,
+    "Wykrycia": 69.4
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2011,
+    "Stwierdzone": 59130,
+    "Wykryte":  42059,
+    "Wykrycia": 70.2
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2010,
+    "Stwierdzone": 56164,
+    "Wykryte":  37587,
+    "Wykrycia": 66.3
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2009,
+    "Stwierdzone": 58572,
+    "Wykryte":  39563,
+    "Wykrycia": 66.9
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2008,
+    "Stwierdzone": 58966,
+    "Wykryte":  40306,
+    "Wykrycia": 67.8
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2007,
+    "Stwierdzone": 61183,
+    "Wykryte":  40405,
+    "Wykrycia": 65.4
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2006,
+    "Stwierdzone": 67604,
+    "Wykryte":  43014,
+    "Wykrycia": 63.1
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2005,
+    "Stwierdzone": 73551,
+    "Wykryte":  45061,
+    "Wykrycia": 60.7
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2004,
+    "Stwierdzone": 81017,
+    "Wykryte":  47361,
+    "Wykrycia": 58
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2003,
+    "Stwierdzone": 82979,
+    "Wykryte":  48391,
+    "Wykrycia": 57.9
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2002,
+    "Stwierdzone": 78754,
+    "Wykryte":  47250,
+    "Wykrycia": 59.5
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2001,
+    "Stwierdzone": 79154,
+    "Wykryte":  47173,
+    "Wykrycia": 59.1
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 2000,
+    "Stwierdzone": 70194,
+    "Wykryte":  37521,
+    "Wykrycia": 53
+  },
+  {
+    "Region": "kujawsko-pomorskie",
+    "Rok": 1999,
+    "Stwierdzone": 66022,
+    "Wykryte":  33169,
+    "Wykrycia": 49.8
+  },
+  {
+    "Region": "Lubelskie",
+    "Rok": 2017,
+    "Stwierdzone": 31076,
+    "Wykryte":  24281,
+    "Wykrycia": 77.5
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2016,
+    "Stwierdzone": 31221,
+    "Wykryte":  22914,
+    "Wykrycia": 72.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2015,
+    "Stwierdzone": 32981,
+    "Wykryte":  23716,
+    "Wykrycia": 71
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2014,
+    "Stwierdzone": 36886,
+    "Wykryte":  26993,
+    "Wykrycia": 72.2
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2013,
+    "Stwierdzone": 44684,
+    "Wykryte":  32046,
+    "Wykrycia": 70.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2012,
+    "Stwierdzone": 48921,
+    "Wykryte":  36308,
+    "Wykrycia": 73.1
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2011,
+    "Stwierdzone": 51471,
+    "Wykryte":  38531,
+    "Wykrycia": 73.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2010,
+    "Stwierdzone": 47783,
+    "Wykryte":  35100,
+    "Wykrycia": 72.5
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2009,
+    "Stwierdzone": 48307,
+    "Wykryte":  34143,
+    "Wykrycia": 70.1
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2008,
+    "Stwierdzone": 50032,
+    "Wykryte":  35368,
+    "Wykrycia": 69.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2007,
+    "Stwierdzone": 51222,
+    "Wykryte":  35674,
+    "Wykrycia": 68.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2006,
+    "Stwierdzone": 57329,
+    "Wykryte":  39760,
+    "Wykrycia": 68.6
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2005,
+    "Stwierdzone": 61358,
+    "Wykryte":  41302,
+    "Wykrycia": 66.6
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2004,
+    "Stwierdzone": 64136,
+    "Wykryte":  42084,
+    "Wykrycia": 64.8
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2003,
+    "Stwierdzone": 64659,
+    "Wykryte":  43161,
+    "Wykrycia": 66.1
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2002,
+    "Stwierdzone": 65757,
+    "Wykryte":  44512,
+    "Wykrycia": 66.8
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2001,
+    "Stwierdzone": 64022,
+    "Wykryte":  44022,
+    "Wykrycia": 67.7
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 2000,
+    "Stwierdzone": 54673,
+    "Wykryte":  34315,
+    "Wykrycia": 61.9
+  },
+  {
+    "Region": "lubelskie",
+    "Rok": 1999,
+    "Stwierdzone": 50843,
+    "Wykryte":  28443,
+    "Wykrycia": 55.2
+  },
+  {
+    "Region": "Lubuskie",
+    "Rok": 2017,
+    "Stwierdzone": 23388,
+    "Wykryte":  17339,
+    "Wykrycia": 73.7
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2016,
+    "Stwierdzone": 22775,
+    "Wykryte":  15940,
+    "Wykrycia": 69.5
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2015,
+    "Stwierdzone": 26949,
+    "Wykryte":  19407,
+    "Wykrycia": 71.2
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2014,
+    "Stwierdzone": 29736,
+    "Wykryte":  21603,
+    "Wykrycia": 71.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2013,
+    "Stwierdzone": 38242,
+    "Wykryte":  28198,
+    "Wykrycia": 73.1
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2012,
+    "Stwierdzone": 38692,
+    "Wykryte":  29186,
+    "Wykrycia": 74.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2011,
+    "Stwierdzone": 41065,
+    "Wykryte":  32044,
+    "Wykrycia": 77.7
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2010,
+    "Stwierdzone": 39230,
+    "Wykryte":  30107,
+    "Wykrycia": 76.1
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2009,
+    "Stwierdzone": 37395,
+    "Wykryte":  28643,
+    "Wykrycia": 75.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2008,
+    "Stwierdzone": 37913,
+    "Wykryte":  29042,
+    "Wykrycia": 75.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2007,
+    "Stwierdzone": 38386,
+    "Wykryte":  28969,
+    "Wykrycia": 74.6
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2006,
+    "Stwierdzone": 38752,
+    "Wykryte":  27762,
+    "Wykrycia": 70.7
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2005,
+    "Stwierdzone": 39483,
+    "Wykryte":  28103,
+    "Wykrycia": 70
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2004,
+    "Stwierdzone": 42234,
+    "Wykryte":  29120,
+    "Wykrycia": 68.2
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2003,
+    "Stwierdzone": 43322,
+    "Wykryte":  29302,
+    "Wykrycia": 66.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2002,
+    "Stwierdzone": 43211,
+    "Wykryte":  29739,
+    "Wykrycia": 68
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2001,
+    "Stwierdzone": 43656,
+    "Wykryte":  28591,
+    "Wykrycia": 64.9
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 2000,
+    "Stwierdzone": 41833,
+    "Wykryte":  24142,
+    "Wykrycia": 57.2  
+  },
+  {
+    "Region": "lubuskie",
+    "Rok": 1999,
+    "Stwierdzone": 38463,
+    "Wykryte":  22783,
+    "Wykrycia": 58.7 
+  },
+  {
+    "Region": "Łódzkie",
+    "Rok": 2017,
+    "Stwierdzone": 44056,
+    "Wykryte":  29363,
+    "Wykrycia": 65.9
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2016,
+    "Stwierdzone": 46039,
+    "Wykryte":  28926,
+    "Wykrycia": 61.8    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2015,
+    "Stwierdzone": 48321,
+    "Wykryte":  28999,
+    "Wykrycia": 58.8    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2014,
+    "Stwierdzone": 51927,
+    "Wykryte":  30988,
+    "Wykrycia": 58.7    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2013,
+    "Stwierdzone": 66474,
+    "Wykryte":  42661,
+    "Wykrycia": 62.9    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2012,
+    "Stwierdzone": 68463,
+    "Wykryte":  43482,
+    "Wykrycia": 62.5    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2011,
+    "Stwierdzone": 73919,
+    "Wykryte":  49493,
+    "Wykrycia": 65.8    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2010,
+    "Stwierdzone": 74725,
+    "Wykryte":  49489,
+    "Wykrycia": 65.5    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2009,
+    "Stwierdzone": 71104,
+    "Wykryte":  47160,
+    "Wykrycia": 65.3    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2008,
+    "Stwierdzone": 71363,
+    "Wykryte":  46347,
+    "Wykrycia": 63.5    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2007,
+    "Stwierdzone": 73196,
+    "Wykryte":  42510,
+    "Wykrycia": 57.4    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2006,
+    "Stwierdzone": 79563,
+    "Wykryte":  43807,
+    "Wykrycia": 54.4    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2005,
+    "Stwierdzone": 86747,
+    "Wykryte":  42107,
+    "Wykrycia": 48    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2004,
+    "Stwierdzone": 93025,
+    "Wykryte":  42603,
+    "Wykrycia": 45.3    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2003,
+    "Stwierdzone": 93333,
+    "Wykryte":  42726,
+    "Wykrycia": 45.4    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2002,
+    "Stwierdzone": 88534,
+    "Wykryte":  40323,
+    "Wykrycia": 45.2    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2001,
+    "Stwierdzone": 85032,
+    "Wykryte":  38028,
+    "Wykrycia": 44.5    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 2000,
+    "Stwierdzone": 78399,
+    "Wykryte":  28600,
+    "Wykrycia": 36.2    
+  },
+  {
+    "Region": "lodzkie",
+    "Rok": 1999,
+    "Stwierdzone": 66187,
+    "Wykryte":  25251,
+    "Wykrycia": 37.9    
+  },
+  {
+    "Region": "Małopolskie",
+    "Rok": 2017,
+    "Stwierdzone": 82410,
+    "Wykryte":  65730,
+    "Wykrycia": 79.4    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2016,
+    "Stwierdzone": 72583,
+    "Wykryte":  53201,
+    "Wykrycia": 72.9    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2015,
+    "Stwierdzone": 69300,
+    "Wykryte":  46953,
+    "Wykrycia": 67.1    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2014,
+    "Stwierdzone": 73687,
+    "Wykryte":  47690,
+    "Wykrycia": 63.9    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2013,
+    "Stwierdzone": 86529,
+    "Wykryte":  55587,
+    "Wykrycia": 63.6    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2012,
+    "Stwierdzone": 96920,
+    "Wykryte":  66435,
+    "Wykrycia": 68    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2011,
+    "Stwierdzone": 98443,
+    "Wykryte":  67913,
+    "Wykrycia": 68.1    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2010,
+    "Stwierdzone": 94302,
+    "Wykryte":  62803,
+    "Wykrycia": 66.1    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2009,
+    "Stwierdzone": 88216,
+    "Wykryte":  56852,
+    "Wykrycia": 63.9    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2008,
+    "Stwierdzone": 82445,
+    "Wykryte":  51216,
+    "Wykrycia": 61.5    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2007,
+    "Stwierdzone": 87006,
+    "Wykryte":  50963,
+    "Wykrycia": 58.1    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2006,
+    "Stwierdzone": 105630,
+    "Wykryte":  62643,
+    "Wykrycia": 58.7    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2005,
+    "Stwierdzone": 115179,
+    "Wykryte":  62452,
+    "Wykrycia": 53.7    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2004,
+    "Stwierdzone": 126953,
+    "Wykryte":  67240,
+    "Wykrycia": 52.6    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2003,
+    "Stwierdzone": 129312,
+    "Wykryte":  68537,
+    "Wykrycia": 52.7    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2002,
+    "Stwierdzone": 106208,
+    "Wykryte":  51278,
+    "Wykrycia": 48    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2001,
+    "Stwierdzone": 104470,
+    "Wykryte":  51506,
+    "Wykrycia": 49    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 2000,
+    "Stwierdzone": 95672,
+    "Wykryte":  42297,
+    "Wykrycia": 43.8    
+  },
+  {
+    "Region": "malopolskie",
+    "Rok": 1999,
+    "Stwierdzone": 80546,
+    "Wykryte":  32358,
+    "Wykrycia": 39.9    
+  },
+  {
+    "Region": "Mazowieckie",
+    "Rok": 2017,
+    "Stwierdzone": 103962,
+    "Wykryte":  62835,
+    "Wykrycia": 60    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2016,
+    "Stwierdzone": 108195,
+    "Wykryte":  61021,
+    "Wykrycia": 56    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2015,
+    "Stwierdzone": 112453,
+    "Wykryte":  61159,
+    "Wykrycia": 53.8    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2014,
+    "Stwierdzone": 118521,
+    "Wykryte":  65502,
+    "Wykrycia": 54.7    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2013,
+    "Stwierdzone": 139641,
+    "Wykryte":  83285,
+    "Wykrycia": 59    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2012,
+    "Stwierdzone": 142841,
+    "Wykryte": 87335,
+    "Wykrycia": 60.4    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2011,
+    "Stwierdzone": 142551,
+    "Wykryte": 87911,
+    "Wykrycia": 61.1    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2010,
+    "Stwierdzone": 140040,
+    "Wykryte": 84758,
+    "Wykrycia": 59.9    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2009,
+    "Stwierdzone": 145274,
+    "Wykryte": 86533,
+    "Wykrycia": 59.1    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2008,
+    "Stwierdzone": 136522,
+    "Wykryte": 80725,
+    "Wykrycia": 58.7    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2007,
+    "Stwierdzone": 159857,
+    "Wykryte": 97372,
+    "Wykrycia": 60.4    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2006,
+    "Stwierdzone": 189162,
+    "Wykryte": 109009,
+    "Wykrycia": 57.2    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2005,
+    "Stwierdzone": 205990,
+    "Wykryte": 104374,
+    "Wykrycia": 50.4    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2004,
+    "Stwierdzone": 208600,
+    "Wykryte": 97051,
+    "Wykrycia": 46.2    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2003,
+    "Stwierdzone": 205581,
+    "Wykryte": 91502,
+    "Wykrycia": 44.3    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2002,
+    "Stwierdzone": 194145,
+    "Wykryte": 82395,
+    "Wykrycia": 42.3    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2001,
+    "Stwierdzone": 195651,
+    "Wykryte": 80442,
+    "Wykrycia": 41    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 2000,
+    "Stwierdzone": 182421,
+    "Wykryte": 62678,
+    "Wykrycia": 34.3    
+  },
+  {
+    "Region": "mazowieckie",
+    "Rok": 1999,
+    "Stwierdzone": 172876,
+    "Wykryte": 54282,
+    "Wykrycia": 31.3    
+  },
+  {
+    "Region": "Opolskie",
+    "Rok": 2017,
+    "Stwierdzone": 19771,
+    "Wykryte":  14800,
+    "Wykrycia": 74.1    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2016,
+    "Stwierdzone": 19904,
+    "Wykryte":  13149,
+    "Wykrycia": 65.5    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2015,
+    "Stwierdzone": 19927,
+    "Wykryte":  13374,
+    "Wykrycia": 65.8    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2014,
+    "Stwierdzone": 22980,
+    "Wykryte":  16233,
+    "Wykrycia": 68.7    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2013,
+    "Stwierdzone": 28647,
+    "Wykryte":  20397,
+    "Wykrycia": 70.2    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2012,
+    "Stwierdzone": 29909,
+    "Wykryte":  21421,
+    "Wykrycia": 71    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2011,
+    "Stwierdzone": 31355,
+    "Wykryte":  23401,
+    "Wykrycia": 73.5    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2010,
+    "Stwierdzone": 30575,
+    "Wykryte":  23397,
+    "Wykrycia": 73    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2009,
+    "Stwierdzone": 28058,
+    "Wykryte":  20391,
+    "Wykrycia": 72.3    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2008,
+    "Stwierdzone": 29014,
+    "Wykryte":  20984,
+    "Wykrycia": 72.1    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2007,
+    "Stwierdzone": 31788,
+    "Wykryte":  22914,
+    "Wykrycia": 71.7    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2006,
+    "Stwierdzone": 32628,
+    "Wykryte":  22673,
+    "Wykrycia": 69.1    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2005,
+    "Stwierdzone": 34637,
+    "Wykryte":  23622,
+    "Wykrycia": 68    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2004,
+    "Stwierdzone": 37256,
+    "Wykryte":  25949,
+    "Wykrycia": 69.4    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2003,
+    "Stwierdzone": 37989,
+    "Wykryte":  25806,
+    "Wykrycia": 67.7    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2002,
+    "Stwierdzone": 39083,
+    "Wykryte":  27061,
+    "Wykrycia": 69.1    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2001,
+    "Stwierdzone": 34397,
+    "Wykryte":  22232,
+    "Wykrycia": 64.4    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 2000,
+    "Stwierdzone": 30549,
+    "Wykryte":  18217,
+    "Wykrycia": 59.2    
+  },
+  {
+    "Region": "opolskie",
+    "Rok": 1999,
+    "Stwierdzone": 27472,
+    "Wykryte":  14982,
+    "Wykrycia": 54.4    
+  },
+  {
+    "Region": "Podkarpackie",
+    "Rok": 2017,
+    "Stwierdzone": 29721,
+    "Wykryte":  23880,
+    "Wykrycia": 79.9    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2016,
+    "Stwierdzone": 23437,
+    "Wykryte":  16310,
+    "Wykrycia": 79.9    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2015,
+    "Stwierdzone": 27487,
+    "Wykryte":  19853,
+    "Wykrycia": 71.6    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2014,
+    "Stwierdzone": 27908,
+    "Wykryte":  19677,
+    "Wykrycia": 69.7    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2013,
+    "Stwierdzone": 35681,
+    "Wykryte":  25800,
+    "Wykrycia": 71.4    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2012,
+    "Stwierdzone": 38152,
+    "Wykryte":  27786,
+    "Wykrycia": 72.2    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2011,
+    "Stwierdzone": 38790,
+    "Wykryte":  28865,
+    "Wykrycia": 73.8    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2010,
+    "Stwierdzone": 36885,
+    "Wykryte":  27281,
+    "Wykrycia": 73.3    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2009,
+    "Stwierdzone": 38702,
+    "Wykryte":  28224,
+    "Wykrycia": 72.2    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2008,
+    "Stwierdzone": 38043,
+    "Wykryte":  27892,
+    "Wykrycia": 72.6    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2007,
+    "Stwierdzone": 37864,
+    "Wykryte":  27559,
+    "Wykrycia": 72.1    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2006,
+    "Stwierdzone": 41356,
+    "Wykryte":  29774,
+    "Wykrycia": 71.4    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2005,
+    "Stwierdzone": 43909,
+    "Wykryte":  30845,
+    "Wykrycia": 69.7    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2004,
+    "Stwierdzone": 48360,
+    "Wykryte":  35135,
+    "Wykrycia": 71.9    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2003,
+    "Stwierdzone": 50324,
+    "Wykryte":  37106,
+    "Wykrycia": 73    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2002,
+    "Stwierdzone": 49881,
+    "Wykryte":  36865,
+    "Wykrycia": 73.4    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2001,
+    "Stwierdzone": 44802,
+    "Wykryte":  30933,
+    "Wykrycia": 68.5    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 2000,
+    "Stwierdzone": 34695,
+    "Wykryte":  21126,
+    "Wykrycia": 60.1    
+  },
+  {
+    "Region": "podkarpackie",
+    "Rok": 1999,
+    "Stwierdzone": 31469,
+    "Wykryte":  18651,
+    "Wykrycia": 58.5    
+  },
+  {
+    "Region": "Podlaskie",
+    "Rok": 2017,
+    "Stwierdzone": 16460,
+    "Wykryte":  12190,
+    "Wykrycia": 73.5    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2016,
+    "Stwierdzone": 17048,
+    "Wykryte":  11972,
+    "Wykrycia": 69.8    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2015,
+    "Stwierdzone": 17470,
+    "Wykryte":  11516,
+    "Wykrycia": 65.4    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2014,
+    "Stwierdzone": 18512,
+    "Wykryte":  12282,
+    "Wykrycia": 65.6    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2013,
+    "Stwierdzone": 22368,
+    "Wykryte":  15634,
+    "Wykrycia": 69    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2012,
+    "Stwierdzone": 25136,
+    "Wykryte":  17829,
+    "Wykrycia": 70.1    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2011,
+    "Stwierdzone": 25588,
+    "Wykryte":  18201,
+    "Wykrycia": 70.3    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2010,
+    "Stwierdzone": 24670,
+    "Wykryte":  17282,
+    "Wykrycia": 69    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2009,
+    "Stwierdzone": 25819,
+    "Wykryte":  17886,
+    "Wykrycia": 68.7    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2008,
+    "Stwierdzone": 25498,
+    "Wykryte":  17782,
+    "Wykrycia": 69    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2007,
+    "Stwierdzone": 26651,
+    "Wykryte":  18543,
+    "Wykrycia": 68.7    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2006,
+    "Stwierdzone": 27725,
+    "Wykryte":  19350,
+    "Wykrycia": 69.1    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2005,
+    "Stwierdzone": 31873,
+    "Wykryte":  21655,
+    "Wykrycia": 67.3    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2004,
+    "Stwierdzone": 36444,
+    "Wykryte":  24486,
+    "Wykrycia": 66.6    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2003,
+    "Stwierdzone": 36842,
+    "Wykryte":  23793,
+    "Wykrycia": 64.1    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2002,
+    "Stwierdzone": 34023,
+    "Wykryte":  22639,
+    "Wykrycia": 66    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2001,
+    "Stwierdzone": 34022,
+    "Wykryte":  22433,
+    "Wykrycia": 65.3    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 2000,
+    "Stwierdzone": 33570,
+    "Wykryte":  18887,
+    "Wykrycia": 55.7    
+  },
+  {
+    "Region": "podlaskie",
+    "Rok": 1999,
+    "Stwierdzone": 30960,
+    "Wykryte":  16011,
+    "Wykrycia": 51.4    
+  },
+  {
+    "Region": "Pomorskie",
+    "Rok": 2017,
+    "Stwierdzone": 44110,
+    "Wykryte":  29009,
+    "Wykrycia": 65.3    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2016,
+    "Stwierdzone": 46072,
+    "Wykryte":  28715,
+    "Wykrycia": 61.9    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2015,
+    "Stwierdzone": 49050,
+    "Wykryte":  29323,
+    "Wykrycia": 59.1    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2014,
+    "Stwierdzone": 54739,
+    "Wykryte":  34548,
+    "Wykrycia": 62.2    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2013,
+    "Stwierdzone": 65796,
+    "Wykryte":  41902,
+    "Wykrycia": 63    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2012,
+    "Stwierdzone": 63292,
+    "Wykryte":  38558,
+    "Wykrycia": 60.2    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2011,
+    "Stwierdzone": 74488,
+    "Wykryte":  49183,
+    "Wykrycia": 65.4    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2010,
+    "Stwierdzone": 81849,
+    "Wykryte":  58386,
+    "Wykrycia": 70.6    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2009,
+    "Stwierdzone": 90751,
+    "Wykryte":  65453,
+    "Wykrycia": 71.5    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2008,
+    "Stwierdzone": 75171,
+    "Wykryte":  48172,
+    "Wykrycia": 63.6    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2007,
+    "Stwierdzone": 74297,
+    "Wykryte":  46685,
+    "Wykrycia": 62.4    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2006,
+    "Stwierdzone": 90182,
+    "Wykryte":  55757,
+    "Wykrycia": 61.5    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2005,
+    "Stwierdzone": 99594,
+    "Wykryte":  56972,
+    "Wykrycia": 56.9    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2004,
+    "Stwierdzone": 110587,
+    "Wykryte":  61678,
+    "Wykrycia": 55.5    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2003,
+    "Stwierdzone": 112533,
+    "Wykryte":  60205,
+    "Wykrycia": 53.3    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2002,
+    "Stwierdzone": 113672,
+    "Wykryte":  63322,
+    "Wykrycia": 55.5    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2001,
+    "Stwierdzone": 116646,
+    "Wykryte":  65401,
+    "Wykrycia": 55.9    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 2000,
+    "Stwierdzone": 102114,
+    "Wykryte":  49215,
+    "Wykrycia": 48    
+  },
+  {
+    "Region": "pomorskie",
+    "Rok": 1999,
+    "Stwierdzone": 81484,
+    "Wykryte":  32562,
+    "Wykrycia": 39.8    
+  },
+  {
+    "Region": "Śląskie",
+    "Rok": 2017,
+    "Stwierdzone": 111679,
+    "Wykryte":  87587,
+    "Wykrycia": 77.6    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2016,
+    "Stwierdzone": 105799,
+    "Wykryte":  75445,
+    "Wykrycia": 70.6    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2015,
+    "Stwierdzone": 117163,
+    "Wykryte":  81556,
+    "Wykrycia": 68.4    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2014,
+    "Stwierdzone": 131368,
+    "Wykryte":  92038,
+    "Wykrycia": 68.7    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2013,
+    "Stwierdzone": 158520,
+    "Wykryte":  109195,
+    "Wykrycia": 67.7    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2012,
+    "Stwierdzone": 167573,
+    "Wykryte":  113050,
+    "Wykrycia": 66.3    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2011,
+    "Stwierdzone": 172073,
+    "Wykryte":  112852,
+    "Wykrycia": 64.4    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2010,
+    "Stwierdzone": 169024,
+    "Wykryte":  109397,
+    "Wykrycia": 63.6    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2009,
+    "Stwierdzone": 157522,
+    "Wykryte":  97047,
+    "Wykrycia": 60.6    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2008,
+    "Stwierdzone": 153214,
+    "Wykryte":  93484,
+    "Wykrycia": 60    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2007,
+    "Stwierdzone": 164685,
+    "Wykryte":  97436,
+    "Wykrycia": 58.4    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2006,
+    "Stwierdzone": 183620,
+    "Wykryte":  104297,
+    "Wykrycia": 56    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2005,
+    "Stwierdzone": 193415,
+    "Wykryte":  103415,
+    "Wykrycia": 52.6    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2004,
+    "Stwierdzone": 202189,
+    "Wykryte":  100436,
+    "Wykrycia": 49.1    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2003,
+    "Stwierdzone": 192702,
+    "Wykryte":  89473,
+    "Wykrycia": 46    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2002,
+    "Stwierdzone": 182623,
+    "Wykryte":  84453,
+    "Wykrycia": 45.9    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2001,
+    "Stwierdzone": 178189,
+    "Wykryte":  86649,
+    "Wykrycia": 48.1    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 2000,
+    "Stwierdzone": 165766,
+    "Wykryte":  77372,
+    "Wykrycia": 46.2    
+  },
+  {
+    "Region": "slaskie",
+    "Rok": 1999,
+    "Stwierdzone": 139334,
+    "Wykryte":  60764,
+    "Wykrycia": 43.3    
+  },
+  {
+    "Region": "Świętokrzyskie",
+    "Rok": 2017,
+    "Stwierdzone": 21085,
+    "Wykryte":  16920,
+    "Wykrycia": 79.9    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2016,
+    "Stwierdzone": 18970,
+    "Wykryte":  14217,
+    "Wykrycia": 74.3    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2015,
+    "Stwierdzone": 24749,
+    "Wykryte":  19041,
+    "Wykrycia": 76.4    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2014,
+    "Stwierdzone": 25476,
+    "Wykryte":  18580,
+    "Wykrycia": 72.3    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2013,
+    "Stwierdzone": 29201,
+    "Wykryte":  22103,
+    "Wykrycia": 75.1    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2012,
+    "Stwierdzone": 31691,
+    "Wykryte":  24756,
+    "Wykrycia": 77.4    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2011,
+    "Stwierdzone": 34321,
+    "Wykryte":  27653,
+    "Wykrycia": 79.9    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2010,
+    "Stwierdzone": 33382,
+    "Wykryte":  26389,
+    "Wykrycia": 78.4    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2009,
+    "Stwierdzone": 35619,
+    "Wykryte":  28329,
+    "Wykrycia": 79.1    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2008,
+    "Stwierdzone": 34606,
+    "Wykryte":  27001,
+    "Wykrycia": 77.3    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2007,
+    "Stwierdzone": 40561,
+    "Wykryte":  31800,
+    "Wykrycia": 77.8    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2006,
+    "Stwierdzone": 41074,
+    "Wykryte":  30217,
+    "Wykrycia": 73.1    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2005,
+    "Stwierdzone": 39944,
+    "Wykryte":  27493,
+    "Wykrycia": 68.5    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2004,
+    "Stwierdzone": 42462,
+    "Wykryte":  28751,
+    "Wykrycia": 67.4    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2003,
+    "Stwierdzone": 42565,
+    "Wykryte":  28920,
+    "Wykrycia": 67.6    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2002,
+    "Stwierdzone": 39063,
+    "Wykryte":  25801,
+    "Wykrycia": 65.8    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2001,
+    "Stwierdzone": 36356,
+    "Wykryte":  23171,
+    "Wykrycia": 63.5    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 2000,
+    "Stwierdzone": 33160,
+    "Wykryte":  20435,
+    "Wykrycia": 61.3    
+  },
+  {
+    "Region": "swietokrzyskie",
+    "Rok": 1999,
+    "Stwierdzone": 31624,
+    "Wykryte":  19767,
+    "Wykrycia": 62.2    
+  },
+  {
+    "Region": "Warminsko-Mazurskie",
+    "Rok": 2017,
+    "Stwierdzone": 24490,
+    "Wykryte":  17686,
+    "Wykrycia": 71.5    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2016,
+    "Stwierdzone": 26971,
+    "Wykryte":  18281,
+    "Wykrycia": 67.2    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2015,
+    "Stwierdzone": 27120,
+    "Wykryte":  18017,
+    "Wykrycia": 64.9    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2014,
+    "Stwierdzone": 30467,
+    "Wykryte":  21242,
+    "Wykrycia": 68.4    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2013,
+    "Stwierdzone": 32988,
+    "Wykryte":  22717,
+    "Wykrycia": 67.5    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2012,
+    "Stwierdzone": 37375,
+    "Wykryte":  27344,
+    "Wykrycia": 71.8    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2011,
+    "Stwierdzone": 39193,
+    "Wykryte":  28687,
+    "Wykrycia": 72.1    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2010,
+    "Stwierdzone": 37666,
+    "Wykryte":  27343,
+    "Wykrycia": 71.6    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2009,
+    "Stwierdzone": 38841,
+    "Wykryte":  28140,
+    "Wykrycia": 71.6    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2008,
+    "Stwierdzone": 39364,
+    "Wykryte":  29406,
+    "Wykrycia": 73.6    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2007,
+    "Stwierdzone": 44876,
+    "Wykryte":  34413,
+    "Wykrycia": 75.5    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2006,
+    "Stwierdzone": 48926,
+    "Wykryte":  36205,
+    "Wykrycia": 72.9    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2005,
+    "Stwierdzone": 50234,
+    "Wykryte":  35879,
+    "Wykrycia": 70.5    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2004,
+    "Stwierdzone": 53476,
+    "Wykryte":  36034,
+    "Wykrycia": 66.4    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2003,
+    "Stwierdzone": 55970,
+    "Wykryte":  38728,
+    "Wykrycia": 68.4    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2002,
+    "Stwierdzone": 58604,
+    "Wykryte":  40602,
+    "Wykrycia": 68.7    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2001,
+    "Stwierdzone": 60461,
+    "Wykryte":  39469,
+    "Wykrycia": 64.7    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 2000,
+    "Stwierdzone": 49413,
+    "Wykryte":  26603,
+    "Wykrycia": 53.1    
+  },
+  {
+    "Region": "warminsko-mazurskie",
+    "Rok": 1999,
+    "Stwierdzone": 47008,
+    "Wykryte":  23576,
+    "Wykrycia": 49.8    
+  },
+  {
+    "Region": "Wielkopolskie",
+    "Rok": 2017,
+    "Stwierdzone": 57487,
+    "Wykryte":  43072,
+    "Wykrycia": 74.6    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2016,
+    "Stwierdzone": 61705,
+    "Wykryte":  44360,
+    "Wykrycia": 71.6    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2015,
+    "Stwierdzone": 68804,
+    "Wykryte":  48806,
+    "Wykrycia": 70.3    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2014,
+    "Stwierdzone": 76459,
+    "Wykryte":  55373,
+    "Wykrycia": 71.8    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2013,
+    "Stwierdzone": 95917,
+    "Wykryte":  71542,
+    "Wykrycia": 74    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2012,
+    "Stwierdzone": 96007,
+    "Wykryte":  72823,
+    "Wykrycia": 74.8    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2011,
+    "Stwierdzone": 101372,
+    "Wykryte":  76848,
+    "Wykrycia": 75.2    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2010,
+    "Stwierdzone": 96929,
+    "Wykryte":  71775,
+    "Wykrycia": 73.3    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2009,
+    "Stwierdzone": 97703,
+    "Wykryte":  72222,
+    "Wykrycia": 73.3    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2008,
+    "Stwierdzone": 91237,
+    "Wykryte":  66054,
+    "Wykrycia": 71.7    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2007,
+    "Stwierdzone": 90697,
+    "Wykryte":  62639,
+    "Wykrycia": 68.3    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2006,
+    "Stwierdzone": 104214,
+    "Wykryte":  70512,
+    "Wykrycia": 67.1    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2005,
+    "Stwierdzone": 115673,
+    "Wykryte":  76991,
+    "Wykrycia": 65.9    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2004,
+    "Stwierdzone": 117417,
+    "Wykryte":  74122,
+    "Wykrycia": 62.6    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2003,
+    "Stwierdzone": 122127,
+    "Wykryte":  74147,
+    "Wykrycia": 60.4    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2002,
+    "Stwierdzone": 117913,
+    "Wykryte":  70115,
+    "Wykrycia": 59    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2001,
+    "Stwierdzone": 116742,
+    "Wykryte":  65742,
+    "Wykrycia": 56    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 2000,
+    "Stwierdzone": 102395,
+    "Wykryte":  48491,
+    "Wykrycia": 47.1    
+  },
+  {
+    "Region": "wielkopolskie",
+    "Rok": 1999,
+    "Stwierdzone": 84788,
+    "Wykryte":  40151,
+    "Wykrycia": 47    
+  },
+  {
+    "Region": "Zachodniopomorskie",
+    "Rok": 2017,
+    "Stwierdzone": 33932,
+    "Wykryte":  25216,
+    "Wykrycia": 73.7    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2016,
+    "Stwierdzone": 35891,
+    "Wykryte":  25876,
+    "Wykrycia": 71.3    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2015,
+    "Stwierdzone": 39778,
+    "Wykryte":  28036,
+    "Wykrycia": 69.9    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2014,
+    "Stwierdzone": 43563,
+    "Wykryte":  29760,
+    "Wykrycia": 67.4    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2013,
+    "Stwierdzone": 52047,
+    "Wykryte":  36686,
+    "Wykrycia": 69.6    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2012,
+    "Stwierdzone": 58970,
+    "Wykryte":  42250,
+    "Wykrycia": 70.7    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2011,
+    "Stwierdzone": 62463,
+    "Wykryte":  45174,
+    "Wykrycia": 71.1    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2010,
+    "Stwierdzone": 60957,
+    "Wykryte":  43775,
+    "Wykrycia": 70.7    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2009,
+    "Stwierdzone": 58358,
+    "Wykryte":  40488,
+    "Wykrycia": 68.6    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2008,
+    "Stwierdzone": 53318,
+    "Wykryte":  35846,
+    "Wykrycia": 66.3    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2007,
+    "Stwierdzone": 57947,
+    "Wykryte":  38528,
+    "Wykrycia": 65.6    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2006,
+    "Stwierdzone": 60687,
+    "Wykryte":  37035,
+    "Wykrycia": 60    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2005,
+    "Stwierdzone": 64874,
+    "Wykryte":  36151,
+    "Wykrycia": 54.4    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2004,
+    "Stwierdzone": 67096,
+    "Wykryte":  34427,
+    "Wykrycia": 50.4    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2003,
+    "Stwierdzone": 68512,
+    "Wykryte":  34772,
+    "Wykrycia": 50.1    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2002,
+    "Stwierdzone": 72593,
+    "Wykryte":  38110,
+    "Wykrycia": 51.6    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2001,
+    "Stwierdzone": 79487,
+    "Wykryte":  40664,
+    "Wykrycia": 50.3    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 2000,
+    "Stwierdzone": 72342,
+    "Wykryte":  34536,
+    "Wykrycia": 47.1    
+  },
+  {
+    "Region": "zachodniopomorskie",
+    "Rok": 1999,
+    "Stwierdzone": 69022,
+    "Wykryte":  31869,
+    "Wykrycia": 45.8    
+  }
+]
