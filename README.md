@@ -23,7 +23,11 @@ The data were collected in such a way as to be able to show the dependence of ch
 * Damage to property
 ## Screenshots
 ![alt text](https://github.com/jaki102/Crime-Visualization/blob/master/src/assets/main_page.png "Main page")
-
+## Features
+List of features ready to use:
+* Showing statistics for the whole country
+* Selection of the voivodeship by means of an interactive map
+* Comparison of data from selected voivodships
 ## Technologies
 * JavaScript
 * Vue version: 2.5.17
