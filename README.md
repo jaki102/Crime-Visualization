@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
+* [Features](#features)
 * [Technologies](#technologies)
 * [Resources](#resources)
 * [Status](#status)
@@ -29,7 +30,7 @@ List of features ready to use:
 * Selection of the voivodeship by means of an interactive map
 * Comparison of data from selected voivodships
 ## Technologies
-* JavaScript
+* JavaScript ES6
 * Vue version: 2.5.17
 * Vue-fusioncharts version: 2.0.1
 ## Resources
