@@ -22,7 +22,7 @@ The data were collected in such a way as to be able to show the dependence of ch
 * Robberies, extortion and theft of robbers
 * Damage to property
 ## Screenshots
-![alt text](https://github.com/jaki102/Crime-Visualization/blob/master/src/assets/map.png "Map of Poland")
+![alt text](https://github.com/jaki102/Crime-Visualization/blob/master/src/assets/main_page.png "Main page")
 
 ## Technologies
 * JavaScript
